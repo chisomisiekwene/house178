@@ -1,0 +1,38 @@
+.aboutpage{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    gap: 35px;
+}
+.image{
+    width: 40%;
+}
+
+.aboutimage{
+    width: 100%;
+}
+
+.text{
+    width: 40%;
+}
+
+.textheader{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 82px;
+    letter-spacing: 0.05em;
+}
+
+.text>p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 37px;
+    letter-spacing: 0.06em;
+
+}
+

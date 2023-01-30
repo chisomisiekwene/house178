@@ -1,0 +1,118 @@
+
+.contactContainer{
+    background-color: #201F1F;
+    color: #FFF;
+    padding: 30px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.contactheader{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 82px;
+    letter-spacing: 0.05em;
+}
+
+
+.logo-workinghour{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 60%;
+    padding: 30px;
+}
+
+.workinghour{
+    padding: 20px;
+}
+
+
+.workinghour>h3{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 57px;
+    letter-spacing: 0.05em;
+    border-bottom: 5px solid red;
+}
+
+.address-hour{
+    padding: 50px;
+    display: flex;
+    gap: 0;
+}
+
+.address,
+.phone,
+.email,
+.time,
+.days{
+    display: flex;
+    gap: 20px;
+}
+
+.addressContainer,
+.time-days{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+   
+}
+
+.addressContainer{
+    width: 45%;
+}
+
+.time-days{
+    width: 40%;
+}
+
+.icon{
+    width: 35px;
+    height: 35px;
+}
+
+.texts{
+    margin-top: 10px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 27px;
+    color: rgba(244, 244, 244, 0.73);
+
+}
+
+.address-hour{
+    display: flex;
+    justify-content: space-between;
+}
+
+.socialmediaicons{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.socialmediaicons>img{
+    width: 30px;
+    height: 30px;
+}
+
+.copy{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 27px;
+    color: rgba(244, 244, 244, 0.73);
+
+}
