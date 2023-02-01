@@ -1,8 +1,5 @@
 /* ||SMALL MOBILE */
 .homepage{
-    background-blend-mode: luminosity, darken;
-    background-color: #0C0101;
-    filter: opacity(0.8);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -14,7 +11,7 @@
 }
   
   .logo{
-    width: 15%;
+    width: 40%;
   }
   
   .house178{
@@ -24,12 +21,19 @@
     color: #fff;
   }
 
+  .logoContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
   .logoContainer>h3{
     color: #fff;
     font-family: Roboto;
     font-size: 11px;
     font-weight: 500;
     margin: 0 auto;
+
   }
   
   .logoContainer>p{
@@ -40,7 +44,44 @@
     margin: 0 auto;
   }
 
-  
+   .menu{
+    width: 35px;
+    height: 35px;
+  }
+
+  .nav{
+    padding: 0;
+  }
+
+  .navbar{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    gap: 100px;
+    margin-top: 35px;
+    top: 0;
+    background-color: #0C0101;
+    right: 0;
+    margin: 0;
+    display: none;
+  } 
+
+  .navlink{
+    list-style: none;
+  }
+
+  .navlink>a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bolder;
+  }
+
+  .navlink>a:hover{
+    color: #CE0900;
+  }
+
   .tagline>h4{
     font-family: 'Open Sans';
     font-style: normal;
@@ -153,10 +194,13 @@
 
     .navbar{
       display: flex;
+      flex-direction: row;
       justify-content: space-between;
+      background-color: transparent;
+      padding: 40px;
       gap: 100px;
-      margin-top: 35px;
-    }
+      top: 0;
+    } 
 
     .navlink{
       list-style: none;
@@ -207,6 +251,10 @@
     .location>p{
       font-size: 30px;
       line-height: 30px;
+    }
+
+    .menu{
+      display: none;
     }
     
   }

@@ -3,7 +3,7 @@ import '../styles/About.css';
 
 function About(){
 return(
-    <div className="aboutpage">
+    <div className="aboutpage" id="About">
         <div className="image">
             <img src="images/page5.png" alt="house178" className="aboutimage" />
         </div>

@@ -2,7 +2,7 @@ import React from "react";
 import '../styles/services.css'
 function Services(){
     return(
-        <div className="services">
+        <div className="services" id="services">
             <div className="meetings">
                 <div className="description">
                     <h3>Where<br></br> Friends & Cocktails <br></br>Meet</h3>
@@ -20,7 +20,7 @@ function Services(){
             
             <div className="fun">
                 <div className="fun-pictureContainer">
-                    <img className="first" src="images/page3.png" alt="Table tennis" />
+                    <img className="fun-first" src="images/page3.png" alt="Table tennis" />
                 </div>    
                 <div className="description">
                     <h3>Mix, Mingle, and Enjoy<br/> at Our Hip Bar and Lounge</h3>

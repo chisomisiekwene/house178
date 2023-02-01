@@ -1,8 +1,9 @@
 import React from "react";
 import '../styles/Home.css'
+
 function Home(){
     return(
-        <div className="homepage" style={{backgroundImage:`url("images/bg.jpeg")`}}>
+        <div className="homepage" style={{backgroundImage:`url("images/background.png")`}} id="Home">
             <div className="house178">
                 <div className="logoContainer">
                     <img className="logo" src="images/logo.png" alt="house178 logo"></img>
@@ -10,11 +11,12 @@ function Home(){
                 </div>
                <div className="nav">
                 <ul className="navbar">
-                    <li className="navlink"><a href="Home.jsx">HOME</a></li>
-                    <li className="navlink"><a href="About.html">ABOUT</a></li>
-                    <li className="navlink"><a href="#Contact">CONTACT</a></li>
-                    <li className="navlink"><a href="#Event">EVENT</a></li>
+                    <li className="navlink"><a href="#Home">HOME</a></li>
+                    <li className="navlink"><a href="#About">ABOUT</a></li>
+                    <li className="navlink"><a href="#contact">CONTACT</a></li>
+                    <li className="navlink"><a href="#services">SERVICES</a></li>
                 </ul>
+                <img src="images/menu-icon.png" alt="menu icon" className="menu"/>
                </div>
             </div>
 

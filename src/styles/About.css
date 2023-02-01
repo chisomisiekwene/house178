@@ -2,8 +2,9 @@
     color: #fff;
     display: flex;
     justify-content: center;
-    padding: 30px;
+    padding: 60px 30px;
     gap: 35px;
+    
 }
 .image{
     width: 40%;
@@ -21,7 +22,7 @@
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
-    font-size: 40px;
+    font-size: 50px;
     line-height: 82px;
     letter-spacing: 0.05em;
 }
@@ -36,3 +37,24 @@
 
 }
 
+@media screen and (max-width: 450px) {
+    .aboutpage{
+        flex-direction: column;        
+    }
+
+    .image{
+        width: 100%;
+    }
+    
+    .aboutimage{
+        width: 100%;
+    }
+    
+    .text{
+        width: 100%;
+    }
+    
+    .textheader{
+        font-size: 30px;
+    }
+}
