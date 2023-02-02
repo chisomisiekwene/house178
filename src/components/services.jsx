@@ -8,7 +8,7 @@ function Services(){
                     <h3>Where<br></br> Friends & Cocktails <br></br>Meet</h3>
                     <p>Looking for a spot to unwind after a long day? Look no further than our cozy bar and lounge.</p>
                     <div className="link">
-                        <a href="www.google.com">Book a space</a>
+                        <a href="https://wa.me/+2347019583344">Book a space</a>
                     </div>
                 </div>
                 <div className="pictureContainer">
@@ -30,7 +30,7 @@ function Services(){
                         we've<br/> got everything you need for a night out with friends. 
                     </p>
                     <div className="link">
-                        <a href="www.google.com">Book a space</a>
+                        <a href="https://wa.me/+2347019583344">Book a space</a>
                     </div>
                     
                 </div>
@@ -45,7 +45,7 @@ function Services(){
                     </p>
                     
                     <div className="bar-link">
-                        <a href="www.google.com">Book a space</a>
+                        <a href="https://wa.me/+2347019583344">Book a space</a>
                     </div>
                 </div>
                 <div className="bar-pictureContainer">

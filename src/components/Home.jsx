@@ -38,10 +38,10 @@ function Home(){
 
             <div className="book">
                 <div className="link">
-                    <a href="www.google.com">Book a space</a>
+                    <a href="https://wa.me/+2347019583344">Book a space</a>
                 </div>
                 <div className="location">
-                    <img className="location-icon" src="images/icon.png" alt="location icon"></img>
+                    <img className="location-icon" src="images/Vector.png" alt="location icon"></img>
                     <p>House 178 Lounge, Airways Oyemekun Road. Akure.</p>
                 </div>
             </div>

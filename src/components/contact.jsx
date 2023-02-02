@@ -48,7 +48,7 @@ function Contact() {
 
             <div className="footer">
                 <div className="socialmediaicons">
-                    <img src="images/whtasapp.png" alt="" />
+                    <img src="images/whatsapp.png" alt="" />
                     <img src="images/facebook.png" alt="" />
                     <img src="images/twitter.png" alt="" />
                     <img src="images/instagram.png" alt="" />
