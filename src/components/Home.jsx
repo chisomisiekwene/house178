@@ -26,7 +26,7 @@ function Home(){
                     <li className="navlink"><a href="#About" onClick={() => setIsActive(false)}>ABOUT</a></li>
                     <li className="navlink"><a href="#contact" onClick={() => setIsActive(false)}>CONTACT</a></li>
                     <li className="navlink"><a href="#services" onClick={() => setIsActive(false)}>SERVICES</a></li>
-                    <li className="navlink"><a href="#gallery" onClick={() => setIsActive(false)}>GALLERY</a></li>
+                    <li className="navlink"><a href="#Gallery" onClick={() => setIsActive(false)}>GALLERY</a></li>
                 </ul>
                 
                </div>
