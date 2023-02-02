@@ -12,8 +12,8 @@ function Services(){
                     </div>
                 </div>
                 <div className="pictureContainer">
-                     <div className="first" style={{backgroundImage: `url("images/page1.png")`}}></div> 
-                    <div className="second" style={{backgroundImage: `url("images/page 2.png")`}}></div>
+                     <div className="first"><img src="images/page1.png" alt="first-image" /></div> 
+                    <div className="second"> <img src="images/page 2.png"/></div>
                 </div>
                
             </div>
