@@ -219,9 +219,14 @@
     }
 
     .description>p {
-        font-size: 20px;
-        line-height: 37px;
+        font-size: 18px;
+        line-height: 30px;
         letter-spacing: 0.01em;
+    }
+
+    .bar,
+    .meetings{
+        flex-direction: column-reverse ;
     }
 
     .description>.link,
@@ -272,6 +277,10 @@
     .fun>.description>h3 {
         font-size: 30px;
         line-height: 40px;
+    }
+
+    .bar-description>p{
+        font-size: 18px;
     }
     
 }
