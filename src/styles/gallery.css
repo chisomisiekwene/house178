@@ -13,10 +13,18 @@
 .mine{
     width: 30%;
     height: 30%;
-    background-color: black;
 }
 
 .mine>img{
     width: 100%;
     height: 100%;
+}
+
+@media screen and (max-width: 450px) {
+    .mine{
+    width: 45%;
+    height: 45%;
+}
+
+    
 }

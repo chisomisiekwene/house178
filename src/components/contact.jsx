@@ -15,7 +15,7 @@ function Contact() {
                     </div>
                     <div className="addressContainer">
                         <div className="address">
-                            <div className="icon"><img src="images/icon.png" alt="location icon" /></div>
+                            <div className="icon"><img src="images/Vector.png" alt="location icon" /></div>
                             <div className="texts">House 178 Lounge, Airways Oyemekun Road. Akure, Ondo State.</div>
                         </div>
                         <div className="phone">

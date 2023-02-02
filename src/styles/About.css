@@ -1,11 +1,13 @@
 .aboutpage{
-    color: #fff;
+    color: #000000;
     display: flex;
     justify-content: center;
     padding: 60px 30px;
     gap: 35px;
+    background-color: #FFFFFF;
     
 }
+
 .image{
     width: 40%;
 }
