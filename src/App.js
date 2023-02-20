@@ -5,6 +5,7 @@ import Services from './components/services';
 import About from './components/About';
 import Contact from './components/contact';
 import Gallery from './components/Gallery';
+import Galleryview from './components/galleryview';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Services/>
       <Gallery/>
       <Contact/>
+      <Galleryview/>
     </div>
   );
 }
