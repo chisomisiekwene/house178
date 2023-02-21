@@ -1,92 +1,71 @@
 const data = [
     {
-        src: "images/image1.jpeg",
-        category: "Bar"    
+        src: "images/image003.jpg"    
     },
     {
-        src: "images/image2.jpeg",
-        category: "Lounge"    
+        src: "images/image06.jpg"    
     },
     {
-        src: "images/image3.jpeg",
-        category: "Bar"    
+        src: "images/image05.jpg"    
     },
     {
-        src: "images/image4.jpeg",
-        category: "Lounge"    
+        src: "images/image002.jpg"    
     },
     {
-        src: "images/image5.jpeg",
-        category: "Bar"    
+        src: "images/image03.jpg"    
     },
     {
-        src: "images/image6.jpeg",
-        category: "Lounge"    
+        src: "images/image07.jpg"    
     },
     {
-        src: "images/image7.jpeg",
-        category: "Bar"    
+        src: "images/image006.jpg"    
     },
     {
-        src: "images/image8.jpeg",
-        category: "Lounge"    
+        src: "images/image1.jpeg"    
     },
     {
-        src: "images/image5.jpeg",
-        category: "Bar"    
+        src: "images/image4.jpeg"    
     },
     {
-        src: "images/image6.jpeg",
-        category: "Lounge"    
+        src: "images/image6.jpeg"    
     },
     {
-        src: "images/image7.jpeg",
-        category: "Bar"    
+        src: "images/image3.jpeg"    
     },
     {
-        src: "images/image8.jpeg",
-        category: "Lounge"    
+        src: "images/image09.jpg"    
     },
     {
-        src: "images/image7.jpeg",
-        category: "Bar"    
+        src: "images/image001.jpg"    
     },
     {
-        src: "images/image8.jpeg",
-        category: "Lounge"    
+        src: "images/image014.jpg"    
     },
     {
-        src: "images/image5.jpeg",
-        category: "Bar"    
+        src: "images/image04.jpg"    
     },
     {
-        src: "images/image6.jpeg",
-        category: "Lounge"    
+        src: "images/image010.jpg"    
     },
     {
-        src: "images/image7.jpeg",
-        category: "Bar"    
+        src: "images/image011.jpg"    
     },
     {
-        src: "images/image7.jpeg",
-        category: "Bar"    
+        src: "images/image012.jpg"    
     },
     {
-        src: "images/image8.jpeg",
-        category: "Lounge"    
+        src: "images/image005.jpg"    
     },
     {
-        src: "images/image5.jpeg",
-        category: "Bar"    
+        src: "images/image013.jpg"    
     },
     {
-        src: "images/image6.jpeg",
-        category: "Lounge"    
+        src: "images/image009.jpg"    
     },
     {
-        src: "images/image7.jpeg",
-        category: "Bar"    
-    },
+        src: "images/kitchen.jpg"    
+    }
+  
 
 
 ]

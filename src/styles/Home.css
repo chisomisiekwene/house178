@@ -182,18 +182,19 @@
     }
 
     .logoContainer{
-      margin-top: 0;
+      margin-top: 15px;
       width: 100%;
       height: 100%;
       display: flex;
       flex-direction: column;
       align-items: flex-start;
+      padding: 0;
       
     }
 
     .logo{
-      width: 30%;
-      height: 30%;
+      width: 15%;
+      height: 15%;
     }
 
     .house178{
@@ -203,7 +204,7 @@
 
     .nav{
       position: static;
-      width: 70%;
+      width: 100%;
       height: 100%;
       transition: all 1.2s ease-in;
     }
@@ -212,7 +213,7 @@
       display: flex;
       flex-direction: row;
       justify-content: space-between;
-      gap: 100px;
+      gap: 20px;
       background-color: transparent;
       width: 100%;
       height: 100%;
@@ -249,7 +250,7 @@
     .navlink>a{
       text-decoration: none;
       color: #FFFFFF;
-      font-family: Roboto;
+      font-family: "nunito";
       font-size: 15px;
       font-weight: bolder;
     }
